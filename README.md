@@ -1,8 +1,8 @@
 # Agromed
 ## Bienvenido al repositorio de Agromed!
-Agromed es un dispositivo diseñado y desarrollado para pequeños agricultores. Les permite analizar en vivo parametros del agua para regadio tales como __pH, EC y temperatura!__ Ademas, mediante telimetría, esta infrmación es posible obtenerla al instante en tu dispositivo mobil mediante servicios de mensajeria instantanea como Telegram.
+Agromed es un dispositivo diseñado y desarrollado para pequeños agricultores. ¡Les permite analizar en vivo parámetro del agua para regadío tales como __pH, EC y temperatura!__ Además, mediante telemetría, esta información es posible obtenerla al instante en tu dispositivo móvil mediante servicios de mensajería instantánea como Telegram.
 
-_Agromed es opensource en todo aspecto. Este proyecto no sería posible gracias a la comunidad._
+_Agromed es open-source en todo aspecto. Este proyecto no sería posible gracias a la comunidad._
 
 ## ¿Para qué es esta propuesta?
 
