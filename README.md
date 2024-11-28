@@ -4,13 +4,17 @@ Agromed es un dispositivo diseñado y desarrollado para pequeños agricultores. 
 
 _Agromed es open-source en todo aspecto. Este proyecto no sería posible gracias a la comunidad._
 
-## ¿Para qué es esta propuesta?
+### ¿Para qué es esta propuesta?
+Generar un sistema de testeo bioquímico portátil de agua
+para el uso de pequeños agricultores.
 
-## ¿Para quiénes es esta propuesta?
+### ¿Para quiénes es esta propuesta?
+El principal usuario de esta propuesta son los pequeños agricultores, que no cuentan con recursos para acceder a sofisticados sensores ni sistemas de medición de agua con complejas y crípticas interfaces. Por otro lado, también están considerados aquellos usuarios limítrofes, por ejemplo alguien que lo quiera usar en su piscina para mantenerla, pero no se lleva muy bien con dispositivos IOT, o quizás, por otro lado, alguna gran empresa minera, que considere practica esta tecnología en sus faenas de grande envergadura, por la sencilla y útil interfaz que ofrece.
 
-## ¿Qué existe que es similar a la propuesta?
+### ¿Qué existe que es similar a la propuesta?
+¡Existen dispositivos que cumplen las mismas tareas de medición! Sin embargo, están enfocadas para un entorno científico y no para "el campo". Por otro lado, la interfaz de Agromed está diseñada para ser sumamente intuitiva y amigable para el usuario.
 
-## ¿Qué existe que puede inspirar la propuesta?
+### ¿Qué existe que puede inspirar la propuesta?
 Aquí te presento 6 opciones:
 #### 1. **YSI Pro 20**
 * [www.ysi.com](http://www.ysi.com)
@@ -70,3 +74,5 @@ Aquí te presento 6 opciones:
     * Con función de almacenamiento de datos
 * **Negativo**:
     * Alto costo
+
+### ¿Qué existe que puede inspirar la propuesta?
